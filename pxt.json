@@ -1,5 +1,5 @@
 {
-    "name": "exo 2",
+    "name": "Boutons poussoir A et B",
     "description": "",
     "dependencies": {
         "core": "*",
